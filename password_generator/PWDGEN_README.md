@@ -13,4 +13,4 @@ python3 pwdgen.py
 ```
 
 ### IN ACTION:
-![PWDGEN GIF](pwdgen.gif)
+![PWDGEN GIF](/assets/pwdgen.gif)
