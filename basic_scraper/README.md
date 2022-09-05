@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 ### TO RUN:
 ```
-
+python basicscraper.py
 ```
 
 ### IN ACTION:
