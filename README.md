@@ -5,3 +5,6 @@
 
 [DAVESFIRSTNOTEBOOK.ipynb](/DAVESFIRSTNOTEBOOK.ipynb) from [How to Install Jupyter and Create Your First Notebook](https://daveallcaps.hashnode.dev/how-to-install-jupyter-and-create-your-first-notebook)
 >Installing Jupyter Notebook with pip and creating your first notebook.
+
+[BASIC WEB SCRAPER USING REQUESTS AND BEAUTIFULSOUP](/basic_scraper/)
+>Scraping a sample HTML page from the web for some data about countries using requests and bs4. Grabs country names from [scrapethissite/simple](https://www.scrapethissite.com/pages/simple/)
