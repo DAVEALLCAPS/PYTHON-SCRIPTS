@@ -1,1 +1,3 @@
 .venv/
+goog_sheets/credentials-sheets.json
+*.pickle
